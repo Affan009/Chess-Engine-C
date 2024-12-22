@@ -5,8 +5,10 @@ This project was made possible through the following resources and contributions
 
 Bluefever Software: For tutorial series and in-depth explanations of chess engine mechanics.
 YouTube Channel: [BlueFeverSoft](https://www.youtube.com/@BlueFeverSoft)
+
 Chess Programming Wiki: Comprehensive information about chess engine concepts.
 Website: [ChessProgramming.org](https://www.chessprogramming.org/Main_Page)
+
 ChatGPT: Assistance with C language-specific details and documentation writing.
 
 Description and Components:
